@@ -4,6 +4,7 @@
 ## TEN MINUTES TILL DAWN https://jd10yl.github.io/10-Minutes-Till-Dawn
 ## NUT SIMULATOR https://jd10yl.github.io/Nut-Simulator
 ## RETRO BOWL https://jd10yl.github.io/RetroBowl
+## RETRO BOWL COLLEGE https://jd10yl.github.io/RetroBowlCollege
 
 # MAKECODE GAMES
 ## CHARRED EARTH https://jd10yl.github.io/charred-earth/
